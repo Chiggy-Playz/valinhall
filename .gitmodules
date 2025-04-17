@@ -1,0 +1,6 @@
+[submodule "vihaan8_backend"]
+	path = vihaan8_backend
+	url = https://github.com/Chiggy-Playz/vihaan8_backend
+[submodule "vihaan8_frontend"]
+	path = vihaan8_frontend
+	url = https://github.com/TheChirag356/valinhall
